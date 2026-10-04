@@ -1,4 +1,4 @@
-# Kitzil Test User Web Demo
+# Repository Demo
 
 A small, dependency-free web project intended to demonstrate basic repository cloning and file access.
 
